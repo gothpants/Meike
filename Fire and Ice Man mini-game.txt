@@ -1,0 +1,5 @@
+// ISO Game: Galactic Warfare
+public class GalacticWarfare {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Galactic Warfare!");
+        // Add your Galactic Warfare game script here
